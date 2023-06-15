@@ -1,0 +1,19 @@
+{
+    "validatePhoneEmpty":"رقم الجوال مطلوب.",
+    "validatePhoneStartValidator":"رقم الجوال يجب ان يبدأ برقم 5.",
+    "validatePhoneValidator":"رقم الجوال يجب الا يكون اكبر من  9.",
+    "validatePassEmpty":"كلمة المرور مطلوبة.",
+    "validatePasswordLength":"كلمة المرور يجب الا تكون اقل من 6.",
+    "validatePasswordNotMatch":"كلمة المرور غير متطابقة.",
+    "validateFieldRequired":"هذا الحقل مطلوب.",
+    "validateEmail":"البريد الالكتروني غير صحيح.",
+    "validateNameLength":"الاسم يجب ان يكون بين 3-30",
+    "validateUpperPass":"يجب أن تحتوي كلمة المرور على حرف واحد كبير وحرف صغير واحد على الأقل.",
+    "loginIn":"تسجيل الدخول",
+    "createAccount":"انشاء حساب",
+    "email":"البريد الالكتروني",
+    "passWord":"كلمة المرور",
+    "haveAnAccount":"هل ليس لديك حساب ؟",
+    "name":"الاسم",
+    "mobileNumber":"رقم الجوال"
+}
